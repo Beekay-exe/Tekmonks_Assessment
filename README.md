@@ -1,5 +1,9 @@
 # TekMonks Task Time.com latest stories API
 
+## Hosted Link
+
+https://tekmonks-task.vercel.app/gettimestories
+
 
 This is a simple API that scrapes the latest stories from [Time.com](https://time.com) using Node.js with Express, Axios, and Cheerio.
 
